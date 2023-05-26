@@ -5,5 +5,5 @@ div.holder{
 	height:400px;
 	display:grid;
 	grid-template-columns:repeat(2, 100px);
-	grid-template-rows:repeat(1, 200px);
+	grid-template-rows:repeat(2, 100px);
 }
